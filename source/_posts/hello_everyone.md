@@ -5,4 +5,4 @@ categories:
 tags:
   - 欢迎
 ---
-Welcome to [阿锴的博客](http://kimblog.tech)! 
+Welcome to [阿锴的博客](http://www.kimblog.online)! 
